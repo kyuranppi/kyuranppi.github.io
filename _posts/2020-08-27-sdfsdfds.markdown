@@ -4,7 +4,7 @@ title:  "Awesome jekyll blog!"
 date:   2019-08-27 23:44:32 +0900
 categories: jekyll update
 ---
-뀨라니가 보는 중에 만든 첫 포스트
+첫 포스트
 
 $$
  a + b = 3\\
